@@ -23,7 +23,7 @@ name: Sewage Plant
 placement: near-town
 probabilityInGame: 6
 probabilityMapGen: 2
-prospectChance: 90
+prospectChance: 100
 tiles:
 - sprites:
   - alwaysDraw: true
