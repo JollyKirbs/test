@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f10ca09f
 license: CC0-1.0
+name: test
 type: industry
+url: https://github.com/JollyKirbs/test
 version: 6
