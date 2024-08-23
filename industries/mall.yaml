@@ -1,0 +1,46 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- DWTT
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 160
+id: 2
+layout:
+- - - 0
+    - 0
+  - - -1
+    - -1
+  - - -1
+    - -1
+name: Mall
+placement: in-large-town
+probabilityInGame: 6
+probabilityMapGen: 4
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/mall/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/mall/1.png
+      left: -31
+      top: -31
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/mall/3.png
+      left: -31
+      top: 0
+type: tertiary

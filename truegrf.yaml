@@ -1,7 +1,7 @@
-description: A new TrueGRF project
+description: A sewage mod i made for testing purposes
 grfid: f10ca09f
 license: CC0-1.0
-name: test
+name: Sewage
 type: industry
 url: https://github.com/JollyKirbs/test
 version: 6

@@ -1,0 +1,17 @@
+abbreviation: SE
+available: true
+classes: 320
+colour: 106
+id: 0
+label: SWAG
+longName: sewage
+name: Sewage
+penaltyLength: 205
+penaltyLowerBound: 50
+price: 216706
+sprite:
+  filename: cargoes/sewage.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

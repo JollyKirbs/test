@@ -1,0 +1,39 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- SWAG
+colour: 1
+fundCostMultiplier: 140
+id: 0
+layout:
+- - - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+name: Sewage Plant
+placement: near-town
+probabilityInGame: 6
+probabilityMapGen: 2
+prospectChance: 90
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/sewage-plant/1.png
+      left: -31
+      top: 0
+type: primary

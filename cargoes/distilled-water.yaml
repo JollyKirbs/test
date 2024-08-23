@@ -1,0 +1,17 @@
+abbreviation: DW
+available: true
+classes: 64
+colour: 1
+id: 1
+label: DWTT
+longName: distilled water
+name: Distilled Water
+penaltyLength: 247
+penaltyLowerBound: 8
+price: 199229
+sprite:
+  filename: cargoes/distilled-water.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
